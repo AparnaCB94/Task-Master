@@ -1,0 +1,28 @@
+
+
+.navbar-nav{ 
+	margin-right: 10 !important; 
+	padding-right: 100px; 
+} 
+
+.navbar{ 
+	background-color: #0a193d; 
+	color: white !important; 
+} 
+
+.nav-item a{ 
+	color: white !important; 
+} 
+
+.nav-item{ 
+	padding-left: 2px; 
+} 
+
+.navbar-brand{ 
+	color: white !important; 
+	padding-left: 100px; 
+} 
+
+#navbar button{ 
+	color: white !important; 
+} 

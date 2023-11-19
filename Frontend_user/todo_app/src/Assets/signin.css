@@ -1,0 +1,61 @@
+
+.gradient-form {
+    background: #eee;
+   
+  }
+  
+  .gradient-custom-2 {
+ 
+    min-height: 30px; 
+
+    background-image: url('https://images.pexels.com/photos/4050341/pexels-photo-4050341.jpeg?auto=compress&cs=tinysrgb&w=600'); 
+    background-size: cover; 
+    background-position: center center; 
+  }
+
+  .text-white {
+    color: #fff; 
+  }
+  
+  .card {
+    border: none;
+    
+  }
+
+  .card img {
+    width: 185px;
+  
+  }
+ 
+  h4 {
+    font-size: 1.5rem;
+    
+  }
+  
+
+  .form-label {
+    font-weight: bold;
+   
+  }
+
+  
+  .btn.btn-primary {
+    padding: 10px 20px; 
+    font-size: 1rem; 
+  }
+  @media (max-width: 768px) {
+    .btn.btn-primary {
+      width: 100%;
+    }  
+}
+
+.btn.btn-primary {
+    background-color: blue; 
+    color: white; 
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  h4.text-black {
+    font-size: 2rem; /* Adjust the font size as needed */
+    font-weight: bold; /* You can apply a different font-family here if desired */
+  }
